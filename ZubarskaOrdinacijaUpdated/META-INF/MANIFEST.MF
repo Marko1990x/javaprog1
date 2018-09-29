@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ jgoodies-forms-1.8.0.jar
+Class-Path: .
+Rsrc-Main-Class: pacOrg.FrameX
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
